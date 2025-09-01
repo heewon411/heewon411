@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Stats
 ![Heewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=heewon411&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewon411&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=heewon411&theme=radical)](https://git.io/streak-stats)
