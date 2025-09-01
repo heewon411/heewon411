@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Welcome to Heewon's github!
 
-## 🌟 About Me
-- 🔭 I’m currently working on **Computer Vision Projects**
-- 🌱 I’m learning **Android & Deep Learning**
 
 ## 📫 Contact
 - Email: heewon2842@naver.com
