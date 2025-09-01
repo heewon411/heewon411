@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## 🌟 About Me
 - 🔭 I’m currently working on **Computer Vision Projects**
 - 🌱 I’m learning **Android & Deep Learning**
-- 💬 Ask me about **OpenCV, Android, Kotlin**
 
 ## 📫 Contact
 - Email: heewon2842@naver.com
@@ -39,5 +38,5 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Stats
 ![Heewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=heewon411&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubID&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewon411&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=heewon411&theme=radical)](https://git.io/streak-stats)
